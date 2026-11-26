@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://edgardjonh.github.io/demos-web/terranova/sitemap.xml
